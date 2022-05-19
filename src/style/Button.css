@@ -1,0 +1,26 @@
+button{
+    width: 300px;
+    height: 80px;
+    border: 2px solid white;
+    border-radius: 15px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: blueviolet;
+}
+.buttonCount{
+    background-color: chocolate;
+
+}
+
+.buttonRestart {
+    background-color: yellowgreen;
+}
+.button-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    
+}
